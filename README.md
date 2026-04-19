@@ -66,9 +66,9 @@ New features were created to extract deeper insights:
 
 ## 📈 Visualizations
 
-![Rating Distribution](images/01_rating_bins_count.png)
-![Rating vs Cost](images/02_rating_vs_cost.png)
-![Correlation Heatmap](images/03_correlation_heatmap.png)
+![Rating Distribution](Images/01_rating_bins_count.png)
+![Rating vs Cost](Images/02_rating_vs_cost.png)
+![Correlation Heatmap](Images/03_correlation_heatmap.png)
 
 ---
 
@@ -91,16 +91,6 @@ New features were created to extract deeper insights:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-git clone https://github.com/your-username/zomato-analysis.git
-cd zomato-analysis
-pip install -r requirements.txt
-jupyter notebook
-```
-
----
 
 ## 🚀 Future Improvements
 
